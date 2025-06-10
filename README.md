@@ -229,11 +229,3 @@ This confirms that the IAM setup is working properly, ensuring controlled access
 ![Image](http://learn.nextwork.org/authentic_brown_happy_nectarine/uploads/aws-security-iam_1811801c)
 
 ---
-
-## The IAM Policy Simulator
-
-### How I used the simulator
-
----
-
----
